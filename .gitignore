@@ -2,8 +2,10 @@
 .env
 
 # Ignore node_modules
-node_modules/
+node_modules
 
 # Other files you want to ignore
 .DS_Store
-dist/
+dist
+dist-ssr
+*.local
